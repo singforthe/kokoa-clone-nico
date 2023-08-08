@@ -1,1 +1,1 @@
-# Kokoa clone 2020 Update
+# Kokoa clone - nico lecture
